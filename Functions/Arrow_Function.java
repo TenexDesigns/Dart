@@ -1,4 +1,5 @@
-In Dart, you can use the fat arrow (`=>`) syntax to create concise and expressive function expressions, also known as lambda functions or arrow functions. These shorthand syntaxes are especially useful for defining small, one-line functions. Here's how the fat arrow syntax works:
+In Dart, you can use the fat arrow (`=>`) syntax to create concise and expressive function expressions, also known as lambda functions or arrow functions. 
+   These shorthand syntaxes are especially useful for defining small, one-line functions. Here's how the fat arrow syntax works:
 
 ### Basic Syntax:
 
