@@ -2,7 +2,8 @@ The `static` keyword in Dart is used to declare class-level variables and method
 
 **Static variables**
 
-Static variables are declared using the `static` keyword followed by the variable name. For example, the following code shows how to declare a static variable in a `Person` class:
+Static variables are declared using the `static` keyword followed by the variable name. 
+  For example, the following code shows how to declare a static variable in a `Person` class:
 
 ```dart
 class Person {
