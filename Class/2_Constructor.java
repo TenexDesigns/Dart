@@ -1,4 +1,6 @@
-In Dart, constructors are special methods used to create and initialize objects of a class. They allow you to set initial values for the instance variables (properties) of a class when an object is created. Dart provides several types of constructors, each with its own use case:
+In Dart, constructors are special methods used to create and initialize objects of a class.
+   They allow you to set initial values for the instance variables (properties) of a class when an object is created. 
+   Dart provides several types of constructors, each with its own use case:
 
 1. **Default Constructor:**
    - This is also known as the "no-argument constructor" or "empty constructor."
@@ -42,7 +44,9 @@ In Dart, constructors are special methods used to create and initialize objects 
      double height;
 
      // Named constructor for creating a square
-     Rectangle.square(double side) : width = side, height = side;
+     Rectangle.square(double side) {
+        double _side = side
+     }
    }
 
    void main() {
