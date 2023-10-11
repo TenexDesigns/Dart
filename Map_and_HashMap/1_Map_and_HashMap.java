@@ -1,4 +1,5 @@
-In Dart, a `Map` is a collection of key-value pairs, where each key is unique. The `HashMap` is one of the implementations of the `Map` interface. Here's how you can use `Map` and `HashMap` in Dart with code samples:
+In Dart, a `Map` is a collection of key-value pairs, where each key is unique. The `HashMap` is one of the implementations of the `Map` interface.
+   Here's how you can use `Map` and `HashMap` in Dart with code samples:
 
 ### Using `Map`:
 
